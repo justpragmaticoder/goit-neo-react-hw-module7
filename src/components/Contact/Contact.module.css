@@ -1,0 +1,18 @@
+.contactItem {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 5px;
+    width: 250px;
+}
+
+.contactText {
+    margin: 0px;
+}
+
+.contactIcon {
+    margin: 0 5px;
+    font-size: 12px;
+}

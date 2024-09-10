@@ -1,0 +1,25 @@
+.formContainer {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    width: 280px;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+
+.contactFormLabel {
+    margin: 10px;
+}
+
+.contactFormBtn {
+    margin: 15px;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.contactFormError {
+    color: red;
+    margin: 0 10px;
+}
